@@ -4,7 +4,7 @@
 
 - 🔭 I just launched my first bot
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m working new things
+- 👯 I’m working on new projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to make random scripts and play games
 
