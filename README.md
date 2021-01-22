@@ -3,7 +3,7 @@
 ## I'm a Gamer, Student, and code learner!!
 
 - 🔭 I just launched my first bot
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently working on some projects with IT companies 
 - 👯 I’m working on new projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to make random scripts and play games
